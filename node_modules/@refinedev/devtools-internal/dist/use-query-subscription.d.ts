@@ -1,0 +1,3 @@
+import { QueryClient } from "@tanstack/react-query";
+export declare const useQuerySubscription: (queryClient: QueryClient) => {};
+//# sourceMappingURL=use-query-subscription.d.ts.map
